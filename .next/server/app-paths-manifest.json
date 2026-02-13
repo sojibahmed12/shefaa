@@ -1,6 +1,9 @@
 {
   "/page": "app/page.js",
-  "/auth/login/page": "app/auth/login/page.js",
-  "/auth/register/page": "app/auth/register/page.js",
-  "/_not-found/page": "app/_not-found/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/admin/doctors/route": "app/api/admin/doctors/route.js",
+  "/api/admin/analytics/route": "app/api/admin/analytics/route.js",
+  "/(dashboard)/admin/page": "app/(dashboard)/admin/page.js",
+  "/(dashboard)/admin/doctors/page": "app/(dashboard)/admin/doctors/page.js",
+  "/(dashboard)/admin/users/page": "app/(dashboard)/admin/users/page.js"
 }

@@ -1,4 +1,4 @@
-// File: D:\Projects\shefa\src\app\layout.tsx
+// File: D:\Projects\shefa.worktrees\copilot-worktree-2026-02-13T12-21-35\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
