@@ -1,4 +1,4 @@
-// File: D:\files\shefa-telemedicine\shefa\src\app\auth\register\page.tsx
+// File: D:\Projects\shefa\src\app\auth\register\page.tsx
 import * as entry from '../../../../../src/app/auth/register/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
